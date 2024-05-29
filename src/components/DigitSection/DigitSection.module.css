@@ -1,0 +1,12 @@
+.digitSection > * {
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.para > p {
+  text-align: center;
+}
+
+.para {
+  margin-top: 2rem;
+}
